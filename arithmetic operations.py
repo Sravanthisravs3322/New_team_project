@@ -5,3 +5,5 @@ b=3
 print(a+b)
 print('Substraction')
 print(a-b)
+print('Multiplication')
+print(a*b)
